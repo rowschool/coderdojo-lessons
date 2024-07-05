@@ -10,7 +10,7 @@ A variable can also be changed; think about having a variable called "high score
 
 In Scratch, you can create a data variable and give it a value. The variable can be used by either the sprite or all sprites. You can show your variable and its value on the stage if you want to; this would be useful for a game score.
 
-Additional information about [Scratch variables](https://en.scratch-wiki.info/wiki/Variable)
+*Additional information about [Scratch variables](https://en.scratch-wiki.info/wiki/Variable)*
 
 In JavaScript, you can create a variable and give it a value.
 
@@ -28,7 +28,7 @@ let myCity = "Kansas City";
 const myCity = "Kansas City";
 ```
 
-Additional information about [JS variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
+*Additional information about [JS variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)*
 
 ## Example Projects
 

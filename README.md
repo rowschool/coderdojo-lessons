@@ -8,20 +8,20 @@ These are lessons for learning how to program at CoderDojo Denver.
 	- [Example Projects](lessons/drawing.md#example-projects)
 	- [Project Ideas](lessons/drawing.md#project-ideas)
 - [Variables](lessons/variables.md)
-	Example Projects
-	Project Ideas
+	- [Example Projects](lessons/variables.md#example-projects)
+	- [Project Ideas](lessons/variables.md#project-ideas)
 - [Making Decisions: if-then-else](lessons/making-decisions.md)
-	Example Projects
-	Project Ideas
+	- [Example Projects](lessons/making-decisions.md#example-projects)
+	- [Project Ideas](lessons/making-decisions.md#project-ideas)
 - [Arrays and Lists](lessons/arrays.md)
 	- [Example Projects](lessons/arrays.md#example-projects)
 	- [Project Ideas](lessons/arrays.md#project-ideas)
 - [Loops and Repeating Things](lessons/loops.md)
-	Introduction to Loops
-	Loops in Code
-	Infinite Loops: good and bad
-	Example Projects
-	Project Ideas
+	- [Introduction to Loops](lessons/loops.md#introduction-to-loops)
+	- [Loops in Code](lessons/loops.md#loops-in-code)
+	- [Infinite Loops: good and bad](lessons/loops.md#infinite-loops-good-and-bad)
+	- [Example Projects](lessons/loops.md#example-projects)
+	- [Project Ideas](lessons/loops.md#project-ideas)
 - [Random](lessons/random.md)
 	Example Projects
 	Project Ideas

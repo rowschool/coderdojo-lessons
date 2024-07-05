@@ -193,13 +193,9 @@ printOddNumbersTo: function(topNumber) {
 ## Example Projects
 
 * Scratch: [Loop Through Names](https://scratch.mit.edu/projects/216162307)
-  <iframe src="https://scratch.mit.edu/projects/embed/216162307/?autostart=false" width="485" height="402" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 * Scratch: Ethan G. [Cup Game](https://scratch.mit.edu/projects/149735896/)
-  <iframe src="https://scratch.mit.edu/projects/embed/149735896/?autostart=false" width="485" height="402" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 * Scratch: [Random Number Generator](https://scratch.mit.edu/projects/219375454)
-  <iframe src="https://scratch.mit.edu/projects/embed/219375454/?autostart=false" width="485" height="402" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 * Scratch: [Summer Plan: Go hiking!](https://scratch.mit.edu/projects/115901669) -- forever-loops used for animation
-  <iframe src="https://scratch.mit.edu/projects/embed/115901669/?autostart=false" width="485" height="402" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ## Project Ideas
 
