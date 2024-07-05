@@ -5,8 +5,8 @@ These are lessons for learning how to program at CoderDojo Denver.
 ## Table of Contents
 
 - [Drawing with Code](lessons/drawing.md)
-	Example Projects
-	Project Ideas
+	- [Example Projects](lessons/drawing.md#example-projects)
+	- [Project Ideas](lessons/drawing.md#project-ideas)
 - [Variables](lessons/variables.md)
 	Example Projects
 	Project Ideas
