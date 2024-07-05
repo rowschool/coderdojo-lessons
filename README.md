@@ -29,8 +29,8 @@ These are lessons for learning how to program at CoderDojo Denver.
 	Example Projects
 	Project Ideas
 - [Broadcast/Receive Events](lessons/broadcast.md)
-	Example Projects
-	Project Ideas
+	- [Example Projects](lessons/broadcast.md#example-projects)
+	- [Project Ideas](lessons/broadcast.md#project-ideas)
 - [User Input: Text](lessons/input-text.md)
 	Example Projects
 	Project Ideas

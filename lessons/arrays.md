@@ -114,12 +114,12 @@ See info about the Scratch version of an array, the [list block](https://en.scra
 
 ## Example Projects
 
--   Scratch: [My Favorite Movie](https://scratch.mit.edu/projects/124673619/)
--   Scratch: Adam P. [Eevee Mixer](https://scratch.mit.edu/projects/199891352/)
--   Scratch: Aaron O. [Asteroids](https://scratch.mit.edu/projects/197718744/)
+- Scratch: [My Favorite Movie](https://scratch.mit.edu/projects/124673619/)
+- Scratch: Adam P. [Eevee Mixer](https://scratch.mit.edu/projects/199891352/)
+- Scratch: Aaron O. [Asteroids](https://scratch.mit.edu/projects/197718744/)
 
 ## Project Ideas
 
--   [Mad Libs](https://en.wikipedia.org/wiki/Mad_Libs)
--   Inventory list in a game
--   Last 3 high scores
+- [Mad Libs](https://en.wikipedia.org/wiki/Mad_Libs)
+- Inventory list in a game
+- Last 3 high scores
