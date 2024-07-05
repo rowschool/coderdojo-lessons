@@ -10,9 +10,6 @@ Arrays are collections of things that belong together. Arrays are found all over
 <br />
 <br />
 We have arrays of phone switches.
-<br />
-<br />
-<br />
 <figure>
 <img src="images/array/3660047829_7e26b20599_z.jpg" width="640" alt="Photograph of Women Working at a Bell System Telephone Switchboard" />
 <figcaption>Array of telephone switches and their operators during WWII. Credit: <a href="http://research.archives.gov/description/1633445">U.S. National Archives</a></figcaption>
