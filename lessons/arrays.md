@@ -6,9 +6,13 @@ Arrays are collections of things that belong together. Arrays are found all over
 <img src="images/array/640px-55Zh6M_Nebo-M_mobile_multiband_radar_system_-02.jpg" width="640" height="412" alt="Photograph of a large planar array antenna" />
 <figcaption>Large planar array antenna of a VHF Russian mobile air defense radar, the Nebo-M. It consists of 175 folded dipole antennas driven in phase. It radiates a narrow beam of radio waves perpendicular to the antenna. By <a href="http://vitalykuzmin.net/?q=node/469">Vitaly V. Kuzmin</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=21027006">CC BY-SA 4.0</a></figcaption>
 </figure>
-
-\\\We have arrays of phone switches.\\\
-
+\
+\
+\
+We have arrays of phone switches.
+\
+\
+\
 <figure>
 <img src="images/array/3660047829_7e26b20599_z.jpg" width="640" alt="Photograph of Women Working at a Bell System Telephone Switchboard" />
 <figcaption>Array of telephone switches and their operators during WWII. Credit: <a href="http://research.archives.gov/description/1633445">U.S. National Archives</a></figcaption>
