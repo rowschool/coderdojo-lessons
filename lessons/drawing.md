@@ -18,7 +18,9 @@ Introduced with the Logo programming language, was the idea of a Turtle as a rob
 <img src="images/drawing/Turtle-animation.gif" width="256" alt="images/drawing/Turtle-animation.gif" />
 <figcaption>Image courtesy of <a href="https://commons.wikimedia.org/wiki/File:Turtle-animation.gif">Wikipedia</a>. An animation that shows how the turtle is used to create graphics by combining forward and turn commands. (This is not actual Logo, but pseudo-code Logo.) <a href="https://commons.wikimedia.org/wiki/Category:CC-BY-SA-4.0">CC by SA 4.0</a></figcaption>
 </figure>
-
+<br />
+<br />
+<br />
 Today, one might see the same kind of programming on the [Code.org](https://code.org/) implementation of [Hour of Code](https://hourofcode.com).
 
 <img src="images/drawing/codeDotOrgMaze.jpg" width="225px" alt="An example of a code dot org maze that has roots in Logo" />
