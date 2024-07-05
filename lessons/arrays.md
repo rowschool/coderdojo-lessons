@@ -8,7 +8,9 @@ Arrays are collections of things that belong together. Arrays are found all over
 </figure>
 <br />
 <br />
+<br />
 We have arrays of phone switches.
+<br />
 <br />
 <br />
 <figure>
@@ -17,7 +19,9 @@ We have arrays of phone switches.
 </figure>
 <br />
 <br />
+<br />
 We have arrays of computer memory.
+<br />
 <br />
 <br />
 <figure>
@@ -26,13 +30,16 @@ We have arrays of computer memory.
 </figure>
 <br />
 <br />
+<br />
 Kids who have worked with multiplication are introduced to arrays that look like this.
+<br />
 <br />
 <br />
 <figure>
 <img src="images/array/26436-673ab7.png" width="512" alt="Image of a 10x10 grid of black dots -- used in US elementary math education to introduce the concept of multiplication, in this case to show 10 times 10 equals 100" />
 <figcaption>Math array used for multiplication. Credit: <a href="https://svgsilh.com/673ab7/image/26436.html">SVG Silh</a>, <span class="title-ref">CC0 1.0</span></figcaption>
 </figure>
+<br />
 <br />
 <br />
 The items in your array belong together. Think of your kitchen as a collection of arrays. The refrigerator is an array of things that need to stay cool. The freezer is an array of things that need to stay frozen. The pantry is an array of food that can be room temperature. You have an array of plates, an array of cups and glasses, an array of eating utensils, an array of towels, an array of spices, etc.
