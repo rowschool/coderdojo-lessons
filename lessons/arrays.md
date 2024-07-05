@@ -22,7 +22,6 @@ We have arrays of phone switches.
 We have arrays of computer memory.
 <br />
 <br />
-<br />
 <figure>
 <img src="images/array/5022950317_bf1df08ff7_z.jpg" width="640" alt="Photograph of vintage computer memory from the 1940s - a grid of wires with iron rings at the intersections" />
 <figcaption>Memory ferrite cores. Non-volatile computer memory with ferrite cores, invented in the late 1940s and used until the 1960s. By <a href="https://www.flickr.com/photos/zigazou76/">Frédéric BISSON</a>, <a href="https://www.flickr.com/photos/zigazou76/5022950317/in/photolist-8DRW8F-8DV1bU-7qXqbL-7jdoe3-mLMXHV-dPcqJ1-74CAVD-dtmAgu-9N2XN6-4WsNf6-2eiJRUg-9N4sor-jR9gc-C4XWX-6toLje-so5Nwj-PxCF2-bTMzmB-7MJHYH-74CAGV-7MJKMc-75f2zt-7MJJrp-5FtAwP-6RDjx-bAmG9G-efemni-poeUX7-ecFG8s-9F2vmv-dsShAU-2a1bPB-dsShTJ-asbxKJ-o5y8DJ-4nhEfZ-aSvDvT-a9H6Y-6tsUEd-3L3GGc-4zBqCp-4oqcc3-f41oVW-7o2YGP-bWzgc7-dsSidj-686HoR-e49fQN-7ihCSj-87Lwon/">CC BY 2.0</a></figcaption>
@@ -31,7 +30,6 @@ We have arrays of computer memory.
 <br />
 <br />
 Kids who have worked with multiplication are introduced to arrays that look like this.
-<br />
 <br />
 <br />
 <figure>
