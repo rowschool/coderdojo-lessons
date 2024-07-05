@@ -22,7 +22,8 @@ Introduced with the Logo programming language, was the idea of a Turtle as a rob
 <br />
 <br />
 Today, one might see the same kind of programming on the [Code.org](https://code.org/) implementation of [Hour of Code](https://hourofcode.com).
-
+<br />
+<br />
 <img src="images/drawing/codeDotOrgMaze.jpg" width="225px" alt="An example of a code dot org maze that has roots in Logo" />
 
 In [Scratch](https://scratch.mit.edu), we can draw using a Logo-like syntax. If you imagine the screen as paper and the sprite as the pen, \"pen up\" and \"pen down\" are concepts that are not that far fetched. In Scratch, we have \"pen\" options like \"erase all,\" \"pen up,\" \"pen down,\" and \"pen color.\"
