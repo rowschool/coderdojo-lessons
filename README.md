@@ -14,8 +14,8 @@ These are lessons for learning how to program at CoderDojo Denver.
 	Example Projects
 	Project Ideas
 - [Arrays and Lists](lessons/arrays.md)
-	Example Projects
-	Project Ideas
+	- [Example Projects](lessons/arrays.md#example-projects)
+	- [Project Ideas](lessons/arrays.md#project-ideas)
 - [Loops and Repeating Things](lessons/loops.md)
 	Introduction to Loops
 	Loops in Code
