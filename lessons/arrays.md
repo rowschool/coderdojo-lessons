@@ -8,31 +8,34 @@ Arrays are collections of things that belong together. Arrays are found all over
 </figure>
 <br />
 <br />
-<br />
 We have arrays of phone switches.
-<br />
 <br />
 <br />
 <figure>
 <img src="images/array/3660047829_7e26b20599_z.jpg" width="640" alt="Photograph of Women Working at a Bell System Telephone Switchboard" />
 <figcaption>Array of telephone switches and their operators during WWII. Credit: <a href="http://research.archives.gov/description/1633445">U.S. National Archives</a></figcaption>
 </figure>
-
-\\\We have arrays of computer memory.\\\
-
+<br />
+<br />
+We have arrays of computer memory.
+<br />
+<br />
 <figure>
 <img src="images/array/5022950317_bf1df08ff7_z.jpg" width="640" alt="Photograph of vintage computer memory from the 1940s - a grid of wires with iron rings at the intersections" />
 <figcaption>Memory ferrite cores. Non-volatile computer memory with ferrite cores, invented in the late 1940s and used until the 1960s. By <a href="https://www.flickr.com/photos/zigazou76/">Frédéric BISSON</a>, <a href="https://www.flickr.com/photos/zigazou76/5022950317/in/photolist-8DRW8F-8DV1bU-7qXqbL-7jdoe3-mLMXHV-dPcqJ1-74CAVD-dtmAgu-9N2XN6-4WsNf6-2eiJRUg-9N4sor-jR9gc-C4XWX-6toLje-so5Nwj-PxCF2-bTMzmB-7MJHYH-74CAGV-7MJKMc-75f2zt-7MJJrp-5FtAwP-6RDjx-bAmG9G-efemni-poeUX7-ecFG8s-9F2vmv-dsShAU-2a1bPB-dsShTJ-asbxKJ-o5y8DJ-4nhEfZ-aSvDvT-a9H6Y-6tsUEd-3L3GGc-4zBqCp-4oqcc3-f41oVW-7o2YGP-bWzgc7-dsSidj-686HoR-e49fQN-7ihCSj-87Lwon/">CC BY 2.0</a></figcaption>
 </figure>
-
-\\\Kids who have worked with multiplication are introduced to arrays that look like this.\\\
-
+<br />
+<br />
+Kids who have worked with multiplication are introduced to arrays that look like this.
+<br />
+<br />
 <figure>
 <img src="images/array/26436-673ab7.png" width="512" alt="Image of a 10x10 grid of black dots -- used in US elementary math education to introduce the concept of multiplication, in this case to show 10 times 10 equals 100" />
 <figcaption>Math array used for multiplication. Credit: <a href="https://svgsilh.com/673ab7/image/26436.html">SVG Silh</a>, <span class="title-ref">CC0 1.0</span></figcaption>
 </figure>
-
-\\\The items in your array belong together. Think of your kitchen as a collection of arrays. The refrigerator is an array of things that need to stay cool. The freezer is an array of things that need to stay frozen. The pantry is an array of food that can be room temperature. You have an array of plates, an array of cups and glasses, an array of eating utensils, an array of towels, an array of spices, etc.
+<br />
+<br />
+The items in your array belong together. Think of your kitchen as a collection of arrays. The refrigerator is an array of things that need to stay cool. The freezer is an array of things that need to stay frozen. The pantry is an array of food that can be room temperature. You have an array of plates, an array of cups and glasses, an array of eating utensils, an array of towels, an array of spices, etc.
 
 Arrays also have a size. In my array of cereal, I have 4 boxes of cereal. In my array of silverware, I have arrays of forks (8), salad forks (8), tea spoons (8), soup spoons (7), butter knives (8), and steak knives (8).
 
