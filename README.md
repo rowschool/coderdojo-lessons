@@ -4,52 +4,39 @@ These are lessons for learning how to program at CoderDojo Denver.
 
 ## Table of Contents
 
-- [Drawing with Code](lessons/drawing)
-- [Variables](lessons/variables)
-- [Making Decisions: if-then-else](lessons/making-decisions)
-- [Arrays and Lists](lessons/arrays)
-- [Loops and Repeating Things](lessons/loops)
-- [Random](lessons/random)
-- [Functions](lessons/functions)
-- [Broadcast/Receive Events](lessons/broadcast)
-- [User Input: Text](lessons/input-text)
-- [User Input: Buttons](lessons/input-button)
-
-<!--
-Drawing with Code
+- [Drawing with Code](lessons/drawing.md)
 	Example Projects
 	Project Ideas
-Variables
+- [Variables](lessons/variables.md)
 	Example Projects
 	Project Ideas
-Making Decisions: if-then-else
+- [Making Decisions: if-then-else](lessons/making-decisions.md)
 	Example Projects
 	Project Ideas
-Arrays and Lists
+- [Arrays and Lists](lessons/arrays.md)
 	Example Projects
 	Project Ideas
-Loops and Repeating Things
+- [Loops and Repeating Things](lessons/loops.md)
 	Introduction to Loops
 	Loops in Code
 	Infinite Loops: good and bad
 	Example Projects
 	Project Ideas
-Random
+- [Random](lessons/random.md)
 	Example Projects
 	Project Ideas
-Functions
+- [Functions](lessons/functions.md)
 	Example Projects
 	Project Ideas
-Broadcast/Receive Events
+- [Broadcast/Receive Events](lessons/broadcast.md)
 	Example Projects
 	Project Ideas
-User Input: Text
+- [User Input: Text](lessons/input-text.md)
 	Example Projects
 	Project Ideas
-User Input: Buttons
+- [User Input: Buttons](lessons/input-button.md)
 	Example Projects
 	Project Ideas
--->
 
 ## Contributing
 
