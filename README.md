@@ -23,8 +23,8 @@ These are lessons for learning how to program at CoderDojo Denver.
 	- [Example Projects](lessons/loops.md#example-projects)
 	- [Project Ideas](lessons/loops.md#project-ideas)
 - [Random](lessons/random.md)
-	Example Projects
-	Project Ideas
+	- [Example Projects](lessons/random.md#example-projects)
+	- [Project Ideas](lessons/random.md#project-ideas)
 - [Functions](lessons/functions.md)
 	- [Example Projects](lessons/functions.md#example-projects)
 	- [Project Ideas](lessons/functions.md#project-ideas)
@@ -32,8 +32,8 @@ These are lessons for learning how to program at CoderDojo Denver.
 	- [Example Projects](lessons/broadcast.md#example-projects)
 	- [Project Ideas](lessons/broadcast.md#project-ideas)
 - [User Input: Text](lessons/input-text.md)
-	Example Projects
-	Project Ideas
+	- [Example Projects](lessons/input-text.md#example-projects)
+	- [Project Ideas](lessons/input-text.md#project-ideas)
 - [User Input: Buttons](lessons/input-button.md)
 	Example Projects
 	Project Ideas
@@ -50,7 +50,7 @@ We follow the [CoderDojo Charter](https://coderdojo.com/en/charter) and adhere t
 
 This project uses [Markdown](https://daringfireball.net/projects/markdown/) as a form of text markup.
 
-If you're writing something without tables, you can [use Markdown](https://github.com/lifeparticle/Markdown-Cheatsheet). It provides an easy and quick way to create formatted text with lists and nicely formatted code examples. Here is a good [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+If you're writing something without tables, you can use Markdown. It provides an easy and quick way to create formatted text with lists and nicely formatted code examples. Here is a good [Markdown cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet).
 
 You can include HTML in your Markdown pages. If you're writing something with tables, please use semantic, accessible (a11y) markup (e.g., if you have an image that requires a licensing notice or a citation).
 

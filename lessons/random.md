@@ -10,7 +10,7 @@ In Scratch, we have two ways of doing something randomly. We can pick a random n
 (pick random (1) to (10))
 ```
 
-![](images/random/scratch-random.png){width="640px"}
+<img src="images/random/scratch-random.png" width="640px" alt="Image of getting a random number between 1 and 10 in Scratch 3.0" />
 
 We can use this to select a random item from a list:
 
@@ -18,7 +18,7 @@ We can use this to select a random item from a list:
 (item (pick random (1) to (length of [myList]) of [myList])
 ```
 
-![](images/random/scratch-randomFromList.png){width="640px"}
+<img src="images/random/scratch-randomFromList.png" width="640px" alt="Image of getting a random item from a Scratch 3.0 list" />
 
 In JavaScript, we generate a random number and use that to access an item in an array or to show a random number. Because JavaScript random numbers are a decimal between 0 and 1, we have to multiply that random number by however many numbers we want to select from and then round that number down to the nearest whole number. For example:
 
@@ -35,15 +35,10 @@ This function will take in an array and return a random item from that array.
 
 ## Example Projects
 
--   
-
-    Scratch: [Smack Adam](https://scratch.mit.edu/projects/222549965)
-
-    :   -   Check out the \"Your\" sprite for an example of how to got to a random location on the screen
-
--   Scratch: [Random Number Generator](https://scratch.mit.edu/projects/219375454/)
-
--   Scratch: [Summer Plan: Go Hiking!](https://scratch.mit.edu/projects/115901669/)
+- Scratch: [Smack Adam](https://scratch.mit.edu/projects/222549965)
+    - Check out the \"Your\" sprite for an example of how to got to a random location on the screen
+- Scratch: [Random Number Generator](https://scratch.mit.edu/projects/219375454/)
+- Scratch: [Summer Plan: Go Hiking!](https://scratch.mit.edu/projects/115901669/)
 
 ## Project Ideas
 
