@@ -35,8 +35,8 @@ These are lessons for learning how to program at CoderDojo Denver.
 	- [Example Projects](lessons/input-text.md#example-projects)
 	- [Project Ideas](lessons/input-text.md#project-ideas)
 - [User Input: Buttons](lessons/input-button.md)
-	Example Projects
-	Project Ideas
+	- [Example Projects](lessons/input-button.md#example-projects)
+	- [Project Ideas](lessons/input-button.md#project-ideas)
 
 ## Contributing
 
