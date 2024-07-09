@@ -4,39 +4,39 @@ These are lessons for learning how to program at CoderDojo Denver.
 
 ## Table of Contents
 
-- [Drawing with Code](lessons/drawing.md)
-	- [Example Projects](lessons/drawing.md#example-projects)
-	- [Project Ideas](lessons/drawing.md#project-ideas)
-- [Variables](lessons/variables.md)
-	- [Example Projects](lessons/variables.md#example-projects)
-	- [Project Ideas](lessons/variables.md#project-ideas)
-- [Making Decisions: if-then-else](lessons/making-decisions.md)
-	- [Example Projects](lessons/making-decisions.md#example-projects)
-	- [Project Ideas](lessons/making-decisions.md#project-ideas)
-- [Arrays and Lists](lessons/arrays.md)
-	- [Example Projects](lessons/arrays.md#example-projects)
-	- [Project Ideas](lessons/arrays.md#project-ideas)
-- [Loops and Repeating Things](lessons/loops.md)
-	- [Introduction to Loops](lessons/loops.md#introduction-to-loops)
-	- [Loops in Code](lessons/loops.md#loops-in-code)
-	- [Infinite Loops: good and bad](lessons/loops.md#infinite-loops-good-and-bad)
-	- [Example Projects](lessons/loops.md#example-projects)
-	- [Project Ideas](lessons/loops.md#project-ideas)
-- [Random](lessons/random.md)
-	- [Example Projects](lessons/random.md#example-projects)
-	- [Project Ideas](lessons/random.md#project-ideas)
-- [Functions](lessons/functions.md)
-	- [Example Projects](lessons/functions.md#example-projects)
-	- [Project Ideas](lessons/functions.md#project-ideas)
-- [Broadcast/Receive Events](lessons/broadcast.md)
-	- [Example Projects](lessons/broadcast.md#example-projects)
-	- [Project Ideas](lessons/broadcast.md#project-ideas)
-- [User Input: Text](lessons/input-text.md)
-	- [Example Projects](lessons/input-text.md#example-projects)
-	- [Project Ideas](lessons/input-text.md#project-ideas)
-- [User Input: Buttons](lessons/input-button.md)
-	- [Example Projects](lessons/input-button.md#example-projects)
-	- [Project Ideas](lessons/input-button.md#project-ideas)
+- [Drawing with Code](drawing.md)
+	- [Example Projects](drawing.md#example-projects)
+	- [Project Ideas](drawing.md#project-ideas)
+- [Variables](variables.md)
+	- [Example Projects](variables.md#example-projects)
+	- [Project Ideas](variables.md#project-ideas)
+- [Making Decisions: if-then-else](making-decisions.md)
+	- [Example Projects](making-decisions.md#example-projects)
+	- [Project Ideas](making-decisions.md#project-ideas)
+- [Arrays and Lists](arrays.md)
+	- [Example Projects](arrays.md#example-projects)
+	- [Project Ideas](arrays.md#project-ideas)
+- [Loops and Repeating Things](loops.md)
+	- [Introduction to Loops](loops.md#introduction-to-loops)
+	- [Loops in Code](loops.md#loops-in-code)
+	- [Infinite Loops: good and bad](loops.md#infinite-loops-good-and-bad)
+	- [Example Projects](loops.md#example-projects)
+	- [Project Ideas](loops.md#project-ideas)
+- [Random](random.md)
+	- [Example Projects](random.md#example-projects)
+	- [Project Ideas](random.md#project-ideas)
+- [Functions](functions.md)
+	- [Example Projects](functions.md#example-projects)
+	- [Project Ideas](functions.md#project-ideas)
+- [Broadcast/Receive Events](broadcast.md)
+	- [Example Projects](broadcast.md#example-projects)
+	- [Project Ideas](broadcast.md#project-ideas)
+- [User Input: Text](input-text.md)
+	- [Example Projects](input-text.md#example-projects)
+	- [Project Ideas](input-text.md#project-ideas)
+- [User Input: Buttons](input-button.md)
+	- [Example Projects](input-button.md#example-projects)
+	- [Project Ideas](input-button.md#project-ideas)
 
 ## Contributing
 
@@ -44,7 +44,7 @@ Please talk to a member of the leadership team if you would like to help improve
 
 ## Code of Conduct
 
-We follow the [CoderDojo Charter](https://coderdojo.com/en/charter) and adhere to our own [Code of Conduct](code-of-conduct.md).
+We follow the [CoderDojo Charter](https://coderdojo.com/en/charter) and adhere to our own [Code of Conduct](https://rowschool.com/coderdojo/code-of-conduct).
 
 ## Text Markup
 
