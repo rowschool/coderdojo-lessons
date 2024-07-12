@@ -62,11 +62,13 @@ function redder() {
 }
 ```
 
-### JS Button Code Examples
+### JS Button Code Example
 
 [Click here to view the source.](examples/input-button.html)
 
-<iframe width="100%" height="300" src="examples/input-button.html" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
+If you are viewing these docs on the CoderDojo website, the `iframe` below will render a [JSFiddle](https://jsfiddle.net/).
+
+<iframe width="100%" height="300" src="https://jsfiddle.net/lioninawhat/u2Lozmae/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 
 ## Example Projects
 
