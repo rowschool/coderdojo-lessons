@@ -38,6 +38,8 @@ These are lessons for learning how to program at CoderDojo Denver.
 	- [Example Projects](input-button.md#example-projects)
 	- [Project Ideas](input-button.md#project-ideas)
 
+Code for demos can be run at the REPL [playcode.io/javascript](https://playcode.io/javascript)
+
 ## Contributing
 
 Please talk to a member of the leadership team if you would like to help improve our lessons.
