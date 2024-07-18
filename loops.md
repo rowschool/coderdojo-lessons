@@ -41,89 +41,53 @@ Likewise, after spinning around so many times, you're bound to get dizzy and sto
 
 Most of the time, you want to have an "exit condition" to ensure that you don't have an endless loop in your program.
 
-<!-- TODO:
-let grades = [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ];
+Should do half days in K, pre-K and full days the rest of the months.
+How do you do a loop here? Jeez.
 
-const months = [
-    'September', 'October', 'November', 'December',
-    'January', 'February', 'March', 'April', 'May',
-    'June', 'July', 'August'
-];
+```js
+let subjects = ['Math', 'Science', 'History', 'English', 'Art', 'Physical Education'];
 
-const shouldIGoToSchool = function(grade) {
-    for (let i = months[0]; i < months[grades.length - 1]; i++) {
-        switch(month) {
-            case 'September':
-            case 'October':
-            case 'November':
-            case 'December':
-            case 'January':
-            case 'February':
-            case 'March':
-            case 'April':
-            case 'May':
-                console.log('Let\'s go to school this month!');
-                break;
-            case 'June':
-            case 'July':
-            case 'August':
-                console.log('It\'s summer time!');
-                break;
-            default:
-                break;
-        }
+for (let i = 0; i < subjects.length; i++) {
+    console.log('I have ' + subjects[i] + ' class today!');
+}
+```
+
+Here, the exit condition is that it has looped through each subject in the `subjects` array.
+
+```javascript
+let subjects = ['Math', 'Science', 'History', 'English', 'Art', 'Physical Education'];
+let subjectCount = 0;
+
+for (i = 0; i < subjects.length; i++) {
+    subjectCount += 1;
+
+    if (i === 0) {
+        console.log(`I am taking ${subjectCount} subjects.`);
+    }
+
+    if (i > 0 && i < subjects.length - 1) {
+        console.log(`Just kidding! I am taking ${subjectCount} subjects.`);
+    }
+
+    if (i === subjects.length - 1) {
+        console.log(`Ok. I am definitely taking ${subjectCount} total subjects.`);
     }
 }
-
-Here, the exit condition is that it has looped 12 times. It cannot loop 13 times - unless you go to Kindergarten and/or Pre-K.
-
-You can also do something with the variables that are part of that loop.
--->
-
-In JavaScript, the school year could be written as:
-
-```javascript
-for (i = 0; i < 40; i++) {
-    console.log("Let's go to school this week!");
-}
-// Let's go to school this week!
-// Let's go to school this week!
-// Let's go to school this week!
-// Let's go to school this week!
-// Let's go to school this week!
-// ...
 ```
 
-Here, the exit condition is that it has looped 40 times. It cannot loop 41 times.
+Notice that we can also do something with the properties that are part of that array, like `length`.
 
-You can also do something with the variables that are part of that loop.
-
-```javascript
-var weekdays = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
-
-for (i = 0; i < weekdays.length; i++ ) {
-    console.log(weekdays[i]);
-}
-
-// Sunday
-// Monday
-// Tuesday
-// Wednesday
-// Thursday
-// Friday
-// Saturday
-// Sunday
-```
-
-This could be rewritten using a special type of array loop called a `foreach`:
+You can also write a loop using a special type of array loop called a `forEach`:
 
 ```javascript
+const weekdays = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'];
+
 weekdays.forEach(function(day) {
     console.log(day);
 });
 ```
 
-What are some things that you can loop over? You can loop over items in a list, like repeating back the list of items you are supposed to get at the store.
+What are some things that you can loop over? I'll start - you can loop over items in a list, like repeating back the list of items you are supposed to get at the store.
 
 You can also use a loop to repeat an action. For instance, what if I want to have a character walk across the screen? I could say:
 
@@ -165,16 +129,18 @@ Or, I could put those actions in a loop:
 
 There's a special kind of loop called an "Infinite Loop" (in Scratch: "Forever Loop"). This is a loop that is easy to create, usually accidentally, and difficult to get out of.
 
+Don't do this. It'll go on forever.
+
 ```javascript
-// Don't do this
 var i = 0;
 do {
     console.log(i++);
 } while (i > 0);
 ```
 
+And also you are definitely quite awesome, don't do this either.
+
 ```javascript
-// Don't do this, either
 var i = 0;
 do {
     console.log('I am awesome!');
@@ -183,8 +149,8 @@ do {
 
 So when is a good time to use an infinite loop? Perhaps while you are waiting for user input in a game or waiting for a status to change. In either case, you want to make sure that you have a way to exit the loop.
 
-- *break:* - this exits a loop
-- *continue:* - this skips the current step in the loop
+- `break` exits a loop
+- `continue` skips the current step in the loop
 
 ```javascript
 while (true) {
@@ -196,16 +162,21 @@ while (true) {
 }
 ```
 
+The following function is written as an infinite loop.
+
 ```javascript
-// Written as an infinite loop
-printOddNumbersTo: function(topNumber) {
-    for (var i = 1;; i++) {
+const printEvenNumbersToMax = function(maximum) {
+    if (!maximum) {
+        return;
+    }
+
+    for (let i = 1;; i++) { // note that we have no exit condition
         if (i % 2 === 1) {
             continue;
         }
 
-        // guard statement to get us out of the infinite-loop
-        if (i >= topNumber) {
+        // this is our exit condition
+        if (i >= maximum) {
             break;
         }
 
@@ -214,10 +185,11 @@ printOddNumbersTo: function(topNumber) {
 }
 ```
 
+And the next one is written as a non-infinite loop.
+
 ```javascript
-// Written as a non-infinite loop
-printOddNumbersTo: function(topNumber) {
-    for (var i = 1; i <= topNumber; i++) {
+const printEvenNumbersToMax = function(maximum) {
+    for (var i = 1; i <= maximum; i++) {
         if (i % 2 === 1) {
             continue;
         }
@@ -227,14 +199,16 @@ printOddNumbersTo: function(topNumber) {
 }
 ```
 
+What's the difference between the two `for` loops?
+
 ## Example Projects
 
-* Scratch: [Loop Through Names](https://scratch.mit.edu/projects/216162307)
+* Scratch: Eric P. [Loop Through Names](https://scratch.mit.edu/projects/216162307)
 * Scratch: Ethan G. [Cup Game](https://scratch.mit.edu/projects/149735896/)
-* Scratch: [Random Number Generator](https://scratch.mit.edu/projects/219375454)
-* Scratch: [Summer Plan: Go hiking!](https://scratch.mit.edu/projects/115901669) -- forever-loops used for animation
+* Scratch: Eric P. [Random Number Generator](https://scratch.mit.edu/projects/219375454)
+* Scratch: Eric P. [Summer Plan: Go hiking!](https://scratch.mit.edu/projects/115901669) (forever loops are used for this animation)
 
 ## Project Ideas
 
-* Reduce repeated steps to show a character walking across the screen
-* Read names in a list that start with the letter "R"
+* Reduce repeated steps to show a character walking across the screen.
+* Read names in a list that start with a letter, like "N".
