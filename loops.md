@@ -41,25 +41,51 @@ Likewise, after spinning around so many times, you're bound to get dizzy and sto
 
 Most of the time, you want to have an "exit condition" to ensure that you don't have an endless loop in your program.
 
-In JavaScript, the school year could be written as:
+<!-- TODO:
+let grades = [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 ];
 
-// TODO NEIL:
-// START IN SEPTEMBER
-// END IN MAY
-// PAUSE IN JUNE, JULY, AUGUST
-
-```javascript
 const months = [
-    'January', 'February', 'March', 'April', 'May', 'June', 
-    'July', 'August', 'September', 'October', 'November', 'December'
+    'September', 'October', 'November', 'December',
+    'January', 'February', 'March', 'April', 'May',
+    'June', 'July', 'August'
 ];
 
-const shouldIGoToSchool = function() {
-
+const shouldIGoToSchool = function(grade) {
+    for (let i = months[0]; i < months[grades.length - 1]; i++) {
+        switch(month) {
+            case 'September':
+            case 'October':
+            case 'November':
+            case 'December':
+            case 'January':
+            case 'February':
+            case 'March':
+            case 'April':
+            case 'May':
+                console.log('Let\'s go to school this month!');
+                break;
+            case 'June':
+            case 'July':
+            case 'August':
+                console.log('It\'s summer time!');
+                break;
+            default:
+                break;
+        }
+    }
 }
-// for (i = 0; i < 40; i++) {
-//     console.log("Let's go to school this week!");
-// }
+
+Here, the exit condition is that it has looped 12 times. It cannot loop 13 times - unless you go to Kindergarten and/or Pre-K.
+
+You can also do something with the variables that are part of that loop.
+-->
+
+In JavaScript, the school year could be written as:
+
+```javascript
+for (i = 0; i < 40; i++) {
+    console.log("Let's go to school this week!");
+}
 // Let's go to school this week!
 // Let's go to school this week!
 // Let's go to school this week!
@@ -68,7 +94,7 @@ const shouldIGoToSchool = function() {
 // ...
 ```
 
-Here, the exit condition is that it has looped 12 times. It cannot loop 13 times - unless you go to Kindergarten and/or Pre-K.
+Here, the exit condition is that it has looped 40 times. It cannot loop 41 times.
 
 You can also do something with the variables that are part of that loop.
 
