@@ -1,12 +1,12 @@
 # Functions
 
-Have you ever found yourself repeating your code over and over in Scratch or in JavaScript? If you find yourself doing this, you can take advantage of “functions” to reuse the same code over and over again. In Scratch, functions are called “my blocks,” but everywhere else, they’re called “functions” and sometimes “methods.”
+Have you ever found yourself repeating your code over and over in Scratch or in JavaScript? If you find yourself doing this, you can take advantage of "functions" to reuse the same code over and over again. In Scratch, functions are called "my blocks," but everywhere else, they're called "functions" and sometimes "methods."
 
 All functions do something within your code.
 
 Functions can take input and return output. This is like a popcorn popper at the movie theater: you add popcorn kernels and oil, and you get hot popcorn in return.
 
-Other functions are like commands. They don’t take any input, but they do something anyway. It’s like telling your dog to sit. You don’t tell your dog where to sit, how to sit, how long to sit, or when to sit; you just tell your dog to sit. And guess what? Your dog sits. Good dog!
+Other functions are like commands. They don't take any input, but they do something anyway. It's like telling your dog to sit. You don't tell your dog where to sit, how to sit, how long to sit, or when to sit; you just tell your dog to sit. And guess what? Your dog sits. Good dog!
 
 One way to think about functions is that they let you take a bunch of steps and give them a simple name. This is like teaching a robot to speak. You could tell the robot how to speak each time you want the robot to speak, or you can just create a speak function and tell the robot to do it instead.
 

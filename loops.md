@@ -6,49 +6,60 @@ Loops let you repeat something over and over again. For example:
 
 ### Loop example 1
 
-2015 had 12 months: January, February, March, April, May, June, July, August, September, October, November, December
+2021 had 12 months: January, February, March, April, May, June, July, August, September, October, November, December
 
-2016 had 12 months: January, February, March, April, May, June, July, August, September, October, November, December
+2022 had 12 months: January, February, March, April, May, June, July, August, September, October, November, December
 
-2017 had 12 months: January, February, March, April, May, June, July, August, September, October, November, December
+2023 had 12 months: January, February, March, April, May, June, July, August, September, October, November, December
 
-2018 had 4 months: January, February, March, April, … which months are next?
+2024 had 12 months: January, February, March, April, ...
+
+Can we just automatically print which months are next using `console.log`?
+
+```js
+const months = [
+    'January', 'February', 'March', 'April', 'May', 'June', 
+    'July', 'August', 'September', 'October', 'November', 'December'
+];
+
+const printTheMonths = function(startYear, endYear) {
+    for (let currentYear = startYear; currentYear <= endYear; currentYear++) {
+        console.log(`${currentYear} had ${months.length} months: ${months.join(', ')}`);
+    }
+}
+```
 
 ### Loop example 2
 
-Spin around and count each spin until you are dizzy. How many times could you spin around?
+Let's say you spin around and count each spin until you are dizzy. How many times could you spin around?
 
 ## Loops in Code
 
-Your day could be condensed to “Wake up, do stuff, go to bed.”
+You might notice that we can list the months for every year from `0` to `Infinity`, and these loops could just go on forever. However, we have a conditional for when we can exit the loop - the `startYear` and `endYear`.
 
-```javascript
-while (alive) {
-    me.wakeUp();
-    me.doStuff();
-    me.goToBed();
-}
-```
+Likewise, after spinning around so many times, you're bound to get dizzy and stop.
 
-In Scratch, this could look like:
-
-```javascript
-// Scratch
-(repeat until (not alive)
-    (wakeUp)
-    (doStuff)
-    (goToBed)
-)
-```
-
-You’ll notice that even though these loops appear to go on forever, they have a conditional for when they can exit the loop. You want to have an “exit condition” to ensure that you don’t have an endless loop in your program.
+Most of the time, you want to have an "exit condition" to ensure that you don't have an endless loop in your program.
 
 In JavaScript, the school year could be written as:
 
+// TODO NEIL:
+// START IN SEPTEMBER
+// END IN MAY
+// PAUSE IN JUNE, JULY, AUGUST
+
 ```javascript
-for (i = 0; i < 40; i++) {
-    console.log("Let's go to school this week!");
+const months = [
+    'January', 'February', 'March', 'April', 'May', 'June', 
+    'July', 'August', 'September', 'October', 'November', 'December'
+];
+
+const shouldIGoToSchool = function() {
+
 }
+// for (i = 0; i < 40; i++) {
+//     console.log("Let's go to school this week!");
+// }
 // Let's go to school this week!
 // Let's go to school this week!
 // Let's go to school this week!
@@ -57,7 +68,7 @@ for (i = 0; i < 40; i++) {
 // ...
 ```
 
-Here, the exit condition is that it has looped 40 times. It cannot loop 41 times.
+Here, the exit condition is that it has looped 12 times. It cannot loop 13 times - unless you go to Kindergarten and/or Pre-K.
 
 You can also do something with the variables that are part of that loop.
 
