@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Events Garden</title>
+
+    <style>
+
+        html {
+            height: 100%;
+        }
+        body {
+            background: saddlebrown url('flowers.png') repeat-x bottom center/150px 0;
+            transition: all 3s;
+            height: 100%;
+            text-align: center;
+        }
+
+        body.plant {
+            background-size: 150px 20%;
+        }
+
+        body.water {
+            background-size: 150px 80%;
+        }
+
+        body.cut {
+            background-size: 150px 0;
+        }
+
+        a {
+            display: inline-block;
+            padding: 10px;
+            color: saddlebrown;
+            background: white;
+            margin: 5px;
+            text-decoration: none;
+        }
+
+    </style>
+
+    <script>
+
+        function listen_for_plant() {
+            document.getElementsByTagName('body')[0].className = 'plant';
+        }
+
+        function listen_for_water() {
+            document.getElementsByTagName('body')[0].className = 'water';
+        }
+
+        function listen_for_cut() {
+            document.getElementsByTagName('body')[0].className = 'cut';
+        }
+
+        function listen_for_click(id, func) {
+            document.getElementById(id).addEventListener("click", func);
+        }
+
+        function setup_listeners() {
+            listen_for_click('plant', listen_for_plant);
+            listen_for_click('water', listen_for_water);
+            listen_for_click('cut', listen_for_cut);
+        }
+
+    </script>
+
+</head>
+<body onload="setup_listeners();">
+
+    <a href="#" id="plant">Plant some flowers</a>
+    <a href="#" id="water">Water the flowers</a>
+    <a href="#" id="cut">Cut the flowers</a>
+
+</body>
+</html>
