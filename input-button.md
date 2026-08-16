@@ -1,6 +1,6 @@
 # User Input: Buttons
 
-If you ask almost any mentor in the CoderDojo who they write programs for, they will tell you that they write them for clients - who are just other people. All of these programs rely upon input from those other people in order to be useful.
+If you ask almost any mentor in the Code Club who they write programs for, they will tell you that they write them for clients - who are just other people. All of these programs rely upon input from those other people in order to be useful.
 
 If you think about the games that you love to play, those games are fun to play because they rely upon some kind of input from you. It could be the press of a button, wiggling a joystick, or typing an answer.
 
@@ -68,7 +68,7 @@ function redder() {
 
 [Click here to view the source.](examples/input-button.html)
 
-If you are viewing these docs on the CoderDojo website, the `iframe` below will render a [JSFiddle](https://jsfiddle.net/).
+If you are viewing these docs on the Row School Code Club website, the `iframe` below will render a [JSFiddle](https://jsfiddle.net/).
 
 <iframe width="100%" height="300" src="//jsfiddle.net/lioninawhat/u2Lozmae/embedded/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 

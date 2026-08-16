@@ -7,7 +7,7 @@ For instance:
 - We roll dice to come up with a random number between 1 and 6.
 - In American Football, a coin is tossed to determine which team starts the game by kicking or by receiving.
 
-Randomness in Nature can be truly random. Computers, on the other hand, thrive on predictability and, therefore, making something truly random on a computer is very difficult. Here at CoderDojo, we can attempt to use the computer's definition of random to our advantage to help make certain games more fun to play.
+Randomness in Nature can be truly random. Computers, on the other hand, thrive on predictability and, therefore, making something truly random on a computer is very difficult. Here at Row School Code Club, we can attempt to use the computer's definition of random to our advantage to help make certain games more fun to play.
 
 In Scratch, we have two ways of doing something randomly. We can pick a random number between a starting number and an end number.
 

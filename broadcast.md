@@ -20,7 +20,7 @@ Here, I might display a text bubble in Scratch when my sprite receives the broac
 
 ### JavaScript Events
 
-If you are viewing these docs on the CoderDojo website, the `iframe`s below will render a [JSFiddle](https://jsfiddle.net/).
+If you are viewing these docs on the Row School Code Club website, the `iframe`s below will render a [JSFiddle](https://jsfiddle.net/).
 
 <iframe width="100%" height="300" src="https://jsfiddle.net/lioninawhat/vdj62obh/embedded/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
 

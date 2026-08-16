@@ -1,6 +1,6 @@
 # Classes and Functions
 
-If you've been coming to CoderDojo for a while, you might have found that we take advantage of "functions" to reuse the same code over and over again.
+If you've been coming to Row School Code Club for a while, you might have found that we take advantage of "functions" to reuse the same code over and over again.
 
 Have you ever found yourself repeating your code over and over in Scratch or in JavaScript? If you find yourself doing this, you can take advantage of "functions" too. In Scratch, functions are called "my blocks," but everywhere else, they're called "functions" and sometimes "methods."
 

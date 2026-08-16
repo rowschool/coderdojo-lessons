@@ -1,6 +1,6 @@
-# CoderDojo Denver
+# Code Club Austin
 
-These are lessons for learning how to program at CoderDojo Denver.
+These are lessons for learning how to program at Code Club Austin.
 
 ## Table of Contents
 
@@ -46,7 +46,7 @@ Please talk to a member of the leadership team if you would like to help improve
 
 ## Code of Conduct
 
-We follow the [CoderDojo Charter](https://coderdojo.com/en/charter) and adhere to our own [Code of Conduct](https://rowschool.com/coderdojo/code-of-conduct).
+We follow the [Code Club Charter](https://codeclub.org/en/policies) and adhere to our own [Code of Conduct](https://rowschool.com/codeclub/code-of-conduct).
 
 ## Text Markup
 
